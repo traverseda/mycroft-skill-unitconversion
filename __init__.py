@@ -19,7 +19,7 @@ class UnitConversionSkill(MycroftSkill):
         count =sympy.S(message.data.get('number',1)) #Convert number to sympy representation
         try:
             result = round((count*ureg(source)).to(target),2)
-            self.speak_dialog("conversion", {'statement': source, 'result':result})
+            self.speak_dialog("conversion", {'statement': count*ureg(source), 'result':result})
         except pint.errors.DimensionalityError as e:
             sourceDimensions = {i.strip("[]") for i in ureg(source).dimensionality.keys()}
             targetDimensions = {i.strip("[]") for i in ureg(target).dimensionality.keys()}
