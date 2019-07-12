@@ -1,0 +1,5 @@
+How many ({prefixTo}|){unitTo} is ({number}|) ({prefixFrom}|){unitFrom}
+How many ({number}|) ({prefixFrom}|){unitFrom} are in a ({prefixTo}|){unitTo}
+How many ({prefixTo}|){{unitTo}} are in ({number}|) ({prefixFrom}|){{unitFrom}}
+How many ({number}|) {unitFrom} in a ({prefixTo}|){unitTo}
+What is ({number}|) ({prefixFrom}|){unitFrom} in ({prefixTo}|){unitTo}

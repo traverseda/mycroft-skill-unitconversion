@@ -1,0 +1,608 @@
+meter
+m
+metre
+second
+s
+sec
+ampere
+A
+amp
+candela
+cd
+candle
+gram
+g
+mole
+mol
+kelvin
+K
+degK
+radian
+rad
+bit
+count
+speed of light
+c
+standard gravity
+g 0
+g n
+gravity
+vacuum permeability
+mu 0
+magnetic constant
+vacuum permittivity
+epsilon 0
+electric constant
+Z 0
+impedance of free space
+characteristic impedance of vacuum
+planck constant
+h
+hbar
+ħ
+newtonian constant of gravitation
+molar gas constant
+R
+fine structure constant
+avogadro number
+N A
+boltzmann constant
+k
+stefan boltzmann constant
+σ
+wien frequency displacement law constant
+rydberg constant
+electron mass
+m e
+neutron mass
+m n
+proton mass
+m p
+turn
+revolution
+cycle
+circle
+degree
+deg
+arcdeg
+arcdegree
+angular degree
+arcminute
+arcmin
+arc minute
+angular minute
+arcsecond
+arcsec
+arc second
+angular second
+steradian
+sr
+are
+barn
+b
+cmil
+circular mils
+darcy
+hectare
+ha
+molar
+M
+katal
+kat
+esu
+statcoulombs
+statC
+franklin
+Fr
+esu per second
+statampere
+ampere turn
+gilbert
+coulomb
+C
+volt
+V
+farad
+F
+ohm
+Ω
+siemens
+S
+mho
+weber
+Wb
+tesla
+T
+henry
+H
+elementary charge
+e
+chemical faraday
+physical faraday
+faraday
+C12 faraday
+gamma
+gauss
+maxwell
+mx
+oersted
+Oe
+statfarad
+statF
+stF
+stathenry
+statH
+stH
+statmho
+statS
+stS
+statohm
+statvolt
+statV
+stV
+unit pole
+joule
+J
+erg
+btu
+Btu
+BTU
+british thermal unit
+electron volt
+eV
+quadrillion btu
+quad
+thm
+therm
+EC therm
+calorie
+cal
+thermochemical calorie
+international steam table calorie
+ton TNT
+tTNT
+US therm
+watt hour
+Wh
+watthour
+hartree
+Eh
+E h
+hartree energy
+toe
+tonne of oil equivalent
+newton
+N
+dyne
+dyn
+force kilogram
+kgf
+kilogram force
+pond
+force gram
+gf
+gram force
+force ounce
+ozf
+ounce force
+force pound
+lbf
+pound force
+force ton
+ton force
+poundal
+pdl
+kip
+hertz
+Hz
+rps
+revolutions per minute
+rpm
+counts per second
+cps
+byte
+B
+octet
+baud
+Bd
+bps
+peak sun hour
+PSH
+langley
+Langley
+angstrom
+Å
+ångström
+Å
+parsec
+pc
+light year
+ly
+lightyear
+astronomical unit
+au
+carat
+metric ton
+t
+tonne
+atomic mass unit
+u
+amu
+dalton
+Da
+bag
+denier
+tex
+dtex
+jute
+Tj
+Ne
+Nm
+lumen
+lm
+lux
+lx
+watt
+W
+volt ampere
+VA
+horsepower
+hp
+UK horsepower
+British horsepower
+boiler horsepower
+metric horsepower
+electric horsepower
+hydraulic horsepower
+refrigeration ton
+ton of refrigeration
+Hg
+mercury
+conventional mercury
+mercury 60F
+H2O
+h2o
+water
+conventional water
+water 4C
+water 39F
+water 60F
+pascal
+Pa
+bar
+atmosphere
+atm
+standard atmosphere
+technical atmosphere
+at
+torr
+pound force per square inch
+psi
+kip per square inch
+ksi
+barye
+barie
+barad
+barrie
+baryd
+Ba
+mm Hg
+mmHg
+millimeter Hg
+millimeter Hg 0C
+cm Hg
+cmHg
+centimeter Hg
+in Hg
+inHg
+inch Hg
+inch Hg 32F
+inch Hg 60F
+inch H2O 39F
+inch H2O 60F
+footH2O
+cmH2O
+foot H2O
+ftH2O
+standard liter per minute
+slpm
+slm
+Bq
+becquerel
+curie
+Ci
+rutherford
+Rd
+Gy
+gray
+Sv
+sievert
+rem
+rads
+roentgen
+delta degC
+Δcelsius
+degC
+celsius
+degR
+rankine
+delta degF
+Δfahrenheit
+degF
+fahrenheit
+minute
+min
+hour
+hr
+day
+week
+fortnight
+year
+month
+shake
+sidereal day
+sidereal hour
+sidereal minute
+sidereal second
+sidereal year
+sidereal month
+tropical month
+synodic month
+lunar month
+common year
+leap year
+julian year
+gregorian year
+millenium
+millenia
+milenia
+milenium
+eon
+work year
+work month
+nautical mile
+nmi
+knot
+kt
+knot international
+international knot
+nautical miles per hour
+mph
+MPH
+kph
+KPH
+poise
+P
+stokes
+St
+rhe
+liter
+l
+L
+litre
+cc
+cubic centimeter
+stere
+inch
+in
+international inch
+inches
+international inches
+foot
+ft
+international foot
+feet
+international feet
+yard
+yd
+international yard
+mile
+mi
+international mile
+square inch
+sq in
+square inches
+square foot
+sq ft
+square feet
+square yard
+sq yd
+square mile
+sq mi
+cubic inch
+cu in
+cubic foot
+cu ft
+cubic feet
+cubic yard
+cu yd
+acre foot
+acre feet
+link
+li
+survey link
+survey foot
+sft
+rod
+rd
+pole
+perch
+chain
+survey mile
+acre
+square rod
+sq rod
+sq pole
+sq perch
+fathom
+us statute mile
+league
+furlong
+dry pint
+dpi
+US dry pint
+dry quart
+dqt
+US dry quart
+dry gallon
+dgal
+US dry gallon
+peck
+pk
+bushel
+bu
+dry barrel
+US dry barrel
+minim
+fluid dram
+fldr
+fluidram
+US fluid dram
+fluid ounce
+floz
+US fluid ounce
+US liquid ounce
+gill
+gi
+liquid gill
+US liquid gill
+pint
+pt
+liquid pint
+US pint
+quart
+qt
+liquid quart
+US liquid quart
+gallon
+gal
+liquid gallon
+US liquid gallon
+teaspoon
+tsp
+tablespoon
+tbsp
+Tbsp
+Tblsp
+tblsp
+tbs
+Tbl
+shot
+jig
+US shot
+cup
+cp
+liquid cup
+US liquid cup
+barrel
+bbl
+oil barrel
+oil bbl
+beer barrel
+beer bbl
+hogshead
+grain
+gr
+drachm
+dr
+avoirdupois dram
+avdp dram
+dram
+ounce
+oz
+avoirdupois ounce
+avdp ounce
+pound
+lb
+avoirdupois pound
+avdp pound
+short hunderdweight
+ch cwt
+long hunderweight
+lg cwt
+short ton
+long ton
+pennyweight
+dwt
+troy ounce
+toz
+troy pound
+tlb
+scruple
+apothecary dram
+ap dr
+apothecary ounce
+ap oz
+apothecary pound
+ap lb
+stone
+quarter
+UK hundredweight
+UK cwt
+UK ton
+US hundredweight
+US cwt
+US ton
+ton
+pixel
+dot
+px
+pel
+picture element
+pixels per centimeter
+PPCM
+pixels per inch
+dots per inch
+PPI
+ppi
+DPI
+printers dpi
+bits per pixel
+bpp
+point
+pp
+printers point
+thou
+th
+mil
+pica
+P̸
+printers pica
+imperial fluid ounce
+imperial floz
+UK fluid ounce
+imperial fluid drachm
+imperial fluid dram
+imperial gill
+imperial gi
+UK gill
+imperial cup
+imperial cp
+UK cup
+imperial pint
+imperial pt
+UK pint
+imperial quart
+imperial qt
+UK quart
+imperial gallon
+imperial gal
+UK gallon
+imperial peck
+imperial pk
+UK pk
+imperial bushel
+imperial bu
+UK bushel
+imperial barrel
+imperial bbl
+UK bbl
+kilogram
+centimeter
+pi
+π
+milliliter
+milligram
+decitex
+millimeter
+kilometer
