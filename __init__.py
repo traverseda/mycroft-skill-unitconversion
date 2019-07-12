@@ -17,8 +17,20 @@ class UnitConversionSkill(MycroftSkill):
         target=(message.data.get('prefixto',"")+message.data['unitto']).lstrip("a ")
 
         count =sympy.S(message.data.get('number',1)) #Convert number to sympy representation
-        result = round((count*ureg(source)).to(target),2)
-        self.speak_dialog("conversion", {'statement': source, 'result':result})
+        try:
+            result = round((count*ureg(source)).to(target),2)
+            self.speak_dialog("conversion", {'statement': source, 'result':result})
+        except pint.errors.DimensionalityError as e:
+            sourceDimensions = {i.strip("[]") for i in ureg(source).dimensionality.keys()}
+            targetDimensions = {i.strip("[]") for i in ureg(target).dimensionality.keys()}
+            common = sourceDimensions.intersection(targetDimensions)
+            uncommon = (sourceDimensions|targetDimensions).difference(common)
+            self.speak_dialog("dimensionalityError", {'dimensions': ", ".join(uncommon),
+                                                      "source": source,
+                                                      "target": target})
+        except pint.errors.UndefinedUnitError as e:
+            self.speak_dialog("unknownUnitError",{"units":e.unit_names})
+
 
 
 def create_skill():
