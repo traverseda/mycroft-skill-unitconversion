@@ -7,7 +7,6 @@ ureg = pint.UnitRegistry()
 
 class UnitConversionSkill(MycroftSkill):
 
-    # The constructor of the skill, which calls MycroftSkill's constructor
     def __init__(self):
         super(UnitConversionSkill, self).__init__(name="UnitConversionSkill")
 
