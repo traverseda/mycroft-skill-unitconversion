@@ -27,3 +27,10 @@ Alex davies (@traverseda)
 * How many millimeters are in a foot
 * What is 23 degrees Celsius in Fahrenheit
 
+#ToDo
+ * Support irrational numbers like 1/3rd
+ * Support basic math, what is 1 kilometer plus 1 mile (in meters?)
+ * Support multi-unit conversiont, what is 1 meter per second in kilometers an
+     hour?
+ * Once padatious solves [#17](https://github.com/MycroftAI/padatious/issues/17)
+     remove symlinked entity files.
