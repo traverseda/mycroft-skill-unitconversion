@@ -18,7 +18,7 @@ class UnitConversionSkill(MycroftSkill):
 
         count =sympy.S(message.data.get('number',1)) #Convert number to sympy representation
         result = round((count*ureg(source)).to(target),2)
-        self.speak_dialog("conversion", {'count':count, 'statement': source, 'result':result})
+        self.speak_dialog("conversion", {'statement': source, 'result':result})
 
 
 def create_skill():
