@@ -1,0 +1,9 @@
+{
+    "utterance": "how many feet are in a meter",
+    "intent_type": "convert.units.intent",
+    "intent": {
+        "unitfrom": "feet",
+        "unitto": "meter"
+    },
+    "expected_dialog": "conversion"
+}
