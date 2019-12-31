@@ -380,8 +380,6 @@ liter
 l
 L
 litre
-cc
-cubic centimeter
 stere
 inch
 in
@@ -606,3 +604,37 @@ milligram
 decitex
 millimeter
 kilometer
+square millimeter
+mm2
+square centimeter
+cm2
+square meter
+m2
+square kilometer
+km2
+cubic millimeter
+mm3
+cubic centimeter
+cm3
+cubic meter
+m3
+cubic kilometer
+km3
+square mile
+pico meter
+nano meter
+micro meter
+deci meter
+deca meter
+hecto meter
+centi liter
+deci liter
+hecto liter
+kilo byte
+mega byte
+giga byte
+tera byte
+peta byte
+exa byte
+zetta byte
+yotta byte
