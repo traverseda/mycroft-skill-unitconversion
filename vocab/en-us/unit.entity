@@ -182,8 +182,10 @@ pond
 force gram
 gf
 gram force
+force ounces
 force ounce
 ozf
+ounces force
 ounce force
 force pound
 lbf
@@ -457,9 +459,12 @@ fldr
 fluidram
 US fluid dram
 fluid ounce
+fluid ounces
 floz
 US fluid ounce
+US fluid ounces
 US liquid ounce
+US liquid ounces
 gill
 gi
 liquid gill
@@ -489,10 +494,14 @@ shot
 jig
 US shot
 cup
+cups
 cp
 liquid cup
+liquid cups
 US liquid cup
+US liquid cups
 barrel
+barrels
 bbl
 oil barrel
 oil bbl
@@ -507,9 +516,12 @@ avoirdupois dram
 avdp dram
 dram
 ounce
+ounces
 oz
 avoirdupois ounce
+avoirdupois ounces
 avdp ounce
+avdp ounces
 pound
 lb
 avoirdupois pound
@@ -523,6 +535,7 @@ long ton
 pennyweight
 dwt
 troy ounce
+troy ounces
 toz
 troy pound
 tlb
@@ -530,6 +543,7 @@ scruple
 apothecary dram
 ap dr
 apothecary ounce
+apothecary ounces
 ap oz
 apothecary pound
 ap lb
@@ -567,8 +581,10 @@ pica
 P̸
 printers pica
 imperial fluid ounce
+imperial fluid ounces
 imperial floz
 UK fluid ounce
+UK fluid ounces
 imperial fluid drachm
 imperial fluid dram
 imperial gill
